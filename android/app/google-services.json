@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1016512603053",
+    "project_id": "abgram",
+    "storage_bucket": "abgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016512603053:android:4249c88990b353ade4b724",
+        "android_client_info": {
+          "package_name": "com.ab.abgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016512603053-9euf5ir93ef3sfj8tlqmobu24ipm09lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ab.abgram",
+            "certificate_hash": "d87a645f6850b607767055765085ea127ff3f64b"
+          }
+        },
+        {
+          "client_id": "1016512603053-hk5brera0fcuadvbqfdrla9j86lvorqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9oq2ksicLJUuy9mle7TyKhXoz9XA5VtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016512603053-hk5brera0fcuadvbqfdrla9j86lvorqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1016512603053-0epmhci1ocnnrenpdv6909pdqhrfgr3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ab.abgram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
